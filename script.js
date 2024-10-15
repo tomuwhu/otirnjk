@@ -1,0 +1,3 @@
+function cica() {
+    alert("Cica");
+}
